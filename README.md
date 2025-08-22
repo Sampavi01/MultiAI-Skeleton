@@ -74,9 +74,14 @@ MultiAI Skeleton/
 
 ---
 
-## 🖼️ Output Images
 
-You can view generated outputs and visualizations in the `images/` folder.
+## 🎬 Live Demo Preview
+
+
+
+Below is a GIF preview of the MultiAgent Studio interface showing a sample workflow and output:
+
+![MultiAgent Studio UI](images/ezgif.com-speed.gif)
 
 ---
 
